@@ -1,6 +1,114 @@
-#col1{
-    background-image: url('19.jpeg'); width:500px;height:800px;background-size: cover;background-repeat: no-repeat;
+.back{
+    background-image: url('19a.jpeg'); width:100%;height:920px;background-size: cover;background-repeat: no-repeat;padding-right: 20px;
+    background-position: bottom;
+}
+#contact{
+    background-color: white; border-radius: 20px;
+}
+h1.h1-f{
+    font-family: 'Fraunces', serif;
+        font-size: 56px;
+        text-transform: uppercase;
+        color: #FFF;
+        letter-spacing: 6px;
+        padding-left: 630px;
+        padding-top: 250px;
+        padding-bottom: 250px;
+        
+
+}
+#arrow{
+  padding-left:920px;
+  margin-top: -320px;
+  
+}
+#egg{
+    width: 100%; height: 100%;
+}
+.egg1>[class*='col-']{
+padding-left: 0;
+padding-right: 0;
+}
+
+
+div.page{
+    padding-left: 250px;
+    padding-top: 300px;
+    padding-bottom: 300px;
 }
 h1{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+}
+p{
+    color: gray;
+    font-weight: 700px;
+    
+}
+h6{
+    font-family: 'Fraunces', serif;
+    font-weight: 900px;
+    
+}
+#glass{
+    width:100%;height: 100%;
+}
+
+div.orange{
+    padding-left: 250px;
+    padding-top: 300px;
+    padding-bottom: 300px;
+
+}
+.glass1>[class*='col-']{
+    padding-left: 0;
+    padding-right: 0;
+    }
+div.cherry{
+    background-image: url('cherry.jpg'); width:100%;height:800px;background-size: cover;background-repeat: no-repeat;
+    color: darkgreen;
+    padding-top: 500px;
+    padding-bottom: 100px;
     text-align: center;
 }
+div.orng{
+background-image: url('orng.jpg'); width:100%;height:800px;background-size: cover;background-repeat: no-repeat;
+color: darkgreen;
+padding-top: 500px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+#orng1{
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: darkgreen;
+    
+}
+#emily{
+    border-radius: 100%;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    overflow-clip-margin: content-box;
+    overflow: clip;height: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+h2{
+    text-align: center; color: gray;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Fraunces', serif;
+    font-weight: 900px;
+    padding-top: 100px;
+}
+#emily1{
+    text-align: center;
+    color: black;
+    margin-bottom: 100px;
+    
+}
+
+
+
