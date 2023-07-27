@@ -87,12 +87,13 @@ padding-top: 500px;
 }
 #emily{
     border-radius: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     box-sizing: border-box;
     overflow-clip-margin: content-box;
     overflow: clip;height: 80px;
     padding-left: 200px;
     padding-right: 200px;
+    
     
 }
 h2{
@@ -107,8 +108,85 @@ h2{
     text-align: center;
     color: black;
     margin-bottom: 100px;
+}
+div.emily{
+    text-align: center;
+
+}
+#thomu{
+    border-radius: 100%;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    overflow-clip-margin: content-box;
+    overflow: clip;height: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
     
 }
+h2{
+    text-align: center; color: gray;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Fraunces', serif;
+    font-weight: 900px;
+    padding-top: 100px;
+}
+#thomu1{
+    text-align: center;
+    color: black;
+    margin-bottom: 100px;
+}
+div.thomu{
+    text-align: center;
+
+}
+#jen{
+    border-radius: 100%;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    overflow-clip-margin: content-box;
+    overflow: clip;height: 80px;
+   
+    
+    
+}
+h2{
+    text-align: center; color: gray;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Fraunces', serif;
+    font-weight: 900px;
+    padding-top: 100px;
+}
+#jen1{
+    text-align: center;
+    color: black;
+    margin-bottom: 100px;
+}
+div.jen{
+    text-align: center;
+
+}
+#pic{
+   width:100%;
+}
+.pic1>[class*='col-']{
+    padding-left: 0;padding-right: 0;
+}
+div.icon{
+    background-color: #90D4C5;
+    text-align: center;
+    height: 300px;
+    padding-top:200px;
+    padding-bottom:200px;
+}
+
+
+
+
+  
+
 
 
 
