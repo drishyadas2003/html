@@ -106,6 +106,7 @@ div.orange{
 .card{
     position: relative;
 }
+
 .card .box-content {
     position: absolute;
     top: 70%;
