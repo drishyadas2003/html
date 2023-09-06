@@ -1,0 +1,24 @@
+
+.name{
+    font-size: xx-large;
+    
+}
+.card{
+    position: relative;
+}
+.card .box-content {
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    max-width: 400px;
+    left:20%;
+    transform: translate(-80%,-80%);
+    color: #1F5449;
+}
+.co>[class*='col-']{
+    padding-left: 0;
+    padding-right: 0;  
+    }
+.btn1{
+    color: darkgray;
+}
