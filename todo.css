@@ -1,0 +1,9 @@
+.back{
+    background-image:linear-gradient(rgb(31, 189, 141),rgb(97, 97, 184));
+    height: 100vh;
+}
+.btn{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
